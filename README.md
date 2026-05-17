@@ -2,7 +2,7 @@
 
 A single-screen mood tracker where you tap to log how you feel, see your last 7 entries in a horizontal timeline, and tap any past entry to watch it animate. All mood faces are hand-rendered with Flutter's `CustomPainter` — no images, emoji, or icon fonts.
 
-🔗 **Live demo:** _add your deployed URL here_
+🔗 **Live demo:** https://mood-tracker-407c6.web.app
 📦 **Repo:** _add your GitHub repo URL here_
 
 ---
