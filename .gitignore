@@ -26,3 +26,6 @@ firestore-debug.log
 
 # Coverage
 coverage/
+
+# Claude Code
+.claude/
